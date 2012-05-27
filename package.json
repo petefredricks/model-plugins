@@ -1,0 +1,7 @@
+{
+	"name": "model-plugins",
+	"description": "Mongoose plugins to help with your models.",
+	"version": "0.0.1",	
+	"main": "index.js",	
+	"dependencies": {}
+}
